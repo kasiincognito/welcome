@@ -4,7 +4,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background-color:rgb(255, 111, 135);
+    background: linear-gradient(#e66465, #9198e5);
 }
 div{
     position:absolute;
